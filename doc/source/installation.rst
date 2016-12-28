@@ -25,6 +25,12 @@ On Debian, the package names with development files are
 Debian / Ubuntu
 ~~~~~~~~~~~~~~~
 
+Most recent versions of Ubuntu (tested in 14.04)
+
+.. code-block:: sh
+
+    sudo apt-get install python-dev python-pip libxml2-dev libcairo2 libpango1.0-0 libgdk-pixbuf2.0-0 libffi-dev
+
 Debian 7.0 Wheezy or newer, Ubuntu 11.10 Oneiric or newer:
 
 .. code-block:: sh
